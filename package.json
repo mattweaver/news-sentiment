@@ -17,8 +17,10 @@
   },
   "homepage": "https://github.com/mattweaver/news-sentiment#readme",
   "dependencies": {
+    "newline-remove": "1.0.2",
     "q": "1.5.1",
     "rss-parser": "2.11.0",
-    "sentiment": "4.1.0"
+    "sentiment": "4.1.0",
+    "sentiment-analysis": "0.1.2"
   }
 }
